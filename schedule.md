@@ -3,17 +3,51 @@ layout: post
 title: Schedule
 ---
 
-**COMING SOON!**
+## A Note on the Schedule
 
-Spring 2023 Meeting Days
+Each week there are readings listed under *Core* and *Penumbra*. The core readings are just that: central to the week's discussion and lab. Everyone should read these closely and prepare to discuss them as described in the "Class Preparation" assignment. The penumbral readings try to capture a broader set of brilliant, pertinent readings to each week's theme that I could not require because time is, sadly, finite. Each week you should choose (at least) one of the penumbral readings, based on your own interests, to read and be prepared to reference as a means of expanding our conversation together.
 
-Thursday, January 19
 
-Lab: Illumination
+## Week 1 | January 19 | Medium
 
-Thursday, January 26
+### Core 
 
-Lab: Archives
++ Ursula K. Le Guin, "A Rant about 'Technology'" (2004), [external link](http://www.ursulakleguinarchive.com/Note-Technology.html)
++ Alan Liu, "Imagining the New Media Encounter" (2008), [external link](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405148641/9781405148641.xml&chunk.id=ss1-3-1&toc.depth=1&toc.id=ss1-3-1&brand=9781405148641_brand) 
++ Amaranth Borsuk, "The Book as Object" from _The Book_ (2018)
+
+### Penumbra
+
++ Marshall McLuhan, “The Medium is the Message” (1964), [library link](http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/10.3366/j.ctvxcrv1h.6)
++ Lisa Gitelman, "Introduction: Media as Historical Subjects," from *Always Already New: Media, History, and the Data of Culture* (MIT Press, 2006), [library link](https://doi-org.proxy2.library.illinois.edu/10.7551/mitpress/1208.003.0003)
++ N. Katherine Hayles and Jessica Pressman, "Making, Critique: A Media Framework," introduction to _Comparative Textual Media_ (2013), [library link](http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/10.5749/j.ctt5hjjtq.3)
++ Mark Alan Mattes, “Media” (2018), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/article/707746)
+
+### Book Lab \#1: Romancing the Book
+
+---
+
+## Week 2 | January 26 | Book
+
+_**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
+
+### Core
+
++ Hannah Alpert-Abrams, "Archaeology of a Book: An Experimental Approach to Reading Rare books in Archival Contexts" (2016), [external link](https://scalar.usc.edu/works/advertencias/index)
++ Amaranth Borsuk, "The Book as Content" from *The Book* (2018)
++ Sarah Werner, "Part 1: Overview" and "Part 3: On the Page" from _Studying Early Printed Books, 1450-1800 : A Practical Guide_ (2019), [library link 1](http://www.library.illinois.edu.proxy2.library.illinois.edu/proxy/go.php?url=https://search-ebscohost-com.proxy2.library.illinois.edu/login.aspx?direct=true&db=nlebk&AN=1991322&site=eds-live&scope=site&ebv=EK&ppid=Page-__-16) & [library link 2](http://www.library.illinois.edu.proxy2.library.illinois.edu/proxy/go.php?url=https://search-ebscohost-com.proxy2.library.illinois.edu/login.aspx?direct=true&db=nlebk&AN=1991322&site=eds-live&scope=site&ebv=EK&ppid=Page-__-84)
+
+### Penumbra
+
++ Matthew Kirschenbaum and Sarah Werner, "Digital Scholarship and Digital Studies: the State of the Discipline" (2014), [library link](http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/43956362)
++ Johanna Drucker, ["Preliminary 1. Histories of the Book and Literacy Technologies"](https://hob.gseis.ucla.edu/HoBCoursebook_Prelim_1.html) and ["Preliminary 2. Bibliographical Alterities"](https://hob.gseis.ucla.edu/HoBCoursebook_Prelim_2.html)
++ Linc Kesler, "Indigenous People and the Written Word" from _The Unfinished Book_ (2021), [external link](https://www-oxfordhandbooks-com.proxy2.library.illinois.edu/view/10.1093/oxfordhb/9780198830801.001.0001/oxfordhb-9780198830801-e-33)
++ Browse [Kit Davey’s Instagram](https://www.instagram.com/daveykit/?hl=en)
+
+### Book Lab \#2: Rarely Reading
+
+---
+
 
 Thursday, February 2
 

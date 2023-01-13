@@ -37,6 +37,7 @@ Particularly in a graduate class, students can be tempted to write 3 lengthy par
 ### Assignment Overview
 
 + 6 reports of approximately 1000 words apiece, over the semester 
++ Reports gathered in an accessible location, such as a GitHub repository or Google Drive folder
 + Students work individually
 + At least 3 reports due before March 11, all 6 due by end of term
 
@@ -71,6 +72,8 @@ There are no specific due dates tied to your Book Reports. You should choose wee
 
 1. First, you may not submit more than one report in a given week, so you should plan for staged submissions rather than clustering them together.
 2. Second, you must submit at least three reports before spring break (March 11) to ensure that your work does not cluster at the end of the semester, which will help both you and me succeed this term.
+3. You should write and share your work in an accessible online location, such as a Github repository or a Google Drive folder. Please share the link with me so I can keep up with your work and ensure you are meeting the deadlines outlined in #2. 
+4. There is a Canvas assignment through which you should share the URL where you are publishing your reports. 
 
 ----
 

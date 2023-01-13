@@ -28,7 +28,28 @@ Each week there are readings listed under *Core* and *Penumbra*. The core readin
 
 -----
 
-## Week 2 | January 26 | Book
+## Week 2 | January 26 | Remediation
+
+### Core
+
++ Ryan Cordell, "'Q i-jtb the Raven': Taking Dirty OCR Seriously" (2017), [external link](https://ryancordell.org/research/qijtb-the-raven/)
++ Jessica Riskin "Frolicsome Engines: The Long Prehistory of Artificial Intelligence" (2016), [external link](https://publicdomainreview.org/essay/frolicsome-engines-the-long-prehistory-of-artificial-intelligence)
++ Kate Crawford and Vladan Joler, “Anatomy of an AI System: The Amazon Echo As An Anatomical Map of Human Labor” (2018), [external link](https://anatomyof.ai/)
++ Benjamin Lee, "Compounded Mediation: A Data Archaeology of the Newspaper Navigator Dataset" (2021), [external link](http://www.digitalhumanities.org/dhq/vol/15/4/000578/000578.html)
+
+### Penumbra
+
++ Benjamin M. Schmidt, "Do Humanists Need to Understand Algorithms?" from *Debates in Digital Humanities 2016*, [external link](http://dhdebates.gc.cuny.edu/debates/text/99) 
++ Tyler Shoemaker, "Error Aligned" (2019), [external link](https://scholarworks.iu.edu/journals/index.php/textual/article/view/27153/32677)
++ Gerben Zaagsma, "Digital History and the Politics of Digitization" (2022), [library link](https://doi-org.proxy2.library.illinois.edu/10.1093/llc/fqac050)
++ Vicki Boykis, "Everything I Understand About ChatGPT" (2022), [external link](https://gist.github.com/veekaybee/6f8885e9906aa9c5408ebe5c7e870698)
+
+### Book Lab: Amanuenses to AI
+
+-----
+
+
+## Week 3 | February 2 | Book
 
 _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 
@@ -47,28 +68,6 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 + Johanna Drucker, ["Preliminary 1. Histories of the Book and Literacy Technologies"](https://hob.gseis.ucla.edu/HoBCoursebook_Prelim_1.html) and ["Preliminary 2. Bibliographical Alterities"](https://hob.gseis.ucla.edu/HoBCoursebook_Prelim_2.html)
 
 ### Book Lab: Reading, Rarely
-
------
-
-
-## Week 3 | February 2 | Remediation
-
-### Core
-
-+ Ryan Cordell, "'Q i-jtb the Raven': Taking Dirty OCR Seriously" (2017), [external link](https://ryancordell.org/research/qijtb-the-raven/)
-+ Jessica Riskin "Frolicsome Engines: The Long Prehistory of Artificial Intelligence" (2016), [external link](https://publicdomainreview.org/essay/frolicsome-engines-the-long-prehistory-of-artificial-intelligence)
-+ Kate Crawford and Vladan Joler, “Anatomy of an AI System: The Amazon Echo As An Anatomical Map of Human Labor” (2018), [external link](https://anatomyof.ai/)
-+ Benjamin Lee, "Compounded Mediation: A Data Archaeology of the Newspaper Navigator Dataset" (2021), [external link](http://www.digitalhumanities.org/dhq/vol/15/4/000578/000578.html)
-
-### Penumbra
-
-+ Benjamin M. Schmidt, "Do Humanists Need to Understand Algorithms?" from *Debates in Digital Humanities 2016*, [external link](http://dhdebates.gc.cuny.edu/debates/text/99) 
-+ Tyler Shoemaker, "Error Aligned" (2019), [external link](https://scholarworks.iu.edu/journals/index.php/textual/article/view/27153/32677)
-+ Gerben Zaagsma, "Digital History and the Politics of Digitization" (2022), [library link](https://doi-org.proxy2.library.illinois.edu/10.1093/llc/fqac050)
-+ Vicki Boykis, "Everything I Understand About ChatGPT" (2022), [external link](https://gist.github.com/veekaybee/6f8885e9906aa9c5408ebe5c7e870698)
-
-
-### Book Lab: Amanuenses to AI
 
 -----
 
@@ -175,6 +174,8 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 -----
 
 ## Week 9 | March 23 | Experiment
+
+_**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 
 ### Core
 

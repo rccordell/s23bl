@@ -122,6 +122,7 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 
 ### Penumbra
 
++ Donald F. McKenzie, “The Book as an Expressive Form” from _Bibliography and the Sociology of Texts_ (orig. 1986), [library link](https://www-cambridge-org.proxy2.library.illinois.edu/core/books/bibliography-and-the-sociology-of-texts/book-as-an-expressive-form/A4622300FDAAA5F71FFB7B0082AB4AEB)
 + Stuart McKee, "How Print Culture Became Indigenous" (2010), [external link](https://s3-us-west-2.amazonaws.com/visiblelanguage/pdf/44.2/how-print-culture-came-to-be-indigenous.pdf)
 + Lisa Gitelman, "Print Culture (Other Than Codex): Job Printing and Its Importance" from *Comparative Textual Media* (2013), [library link](http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/10.5749/j.ctt5hjjtq.3)
 + Elyse Graham, "The Printing Press as Metaphor" (2016), [external link](http://www.digitalhumanities.org/dhq/vol/10/3/000264/000264.html)
@@ -150,7 +151,7 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 
 <center>-----</center>
 
-## Week 8 | March 9 | Gathering
+## Week 8 | March 9 | Surface
 
 ### Core 
 
@@ -161,7 +162,6 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 
 ### Penumbra
 
-+ Donald F. McKenzie, “The Book as an Expressive Form” from _Bibliography and the Sociology of Texts_ (orig. 1986), [library link](https://www-cambridge-org.proxy2.library.illinois.edu/core/books/bibliography-and-the-sociology-of-texts/book-as-an-expressive-form/A4622300FDAAA5F71FFB7B0082AB4AEB)
 + Charity Hancock, Clifford Hichar, Carlea Holl-Jensen, Kari Kraus, Cameron Mozafari, and Kathryn Skutlin, "Bibliocircuitry and the Design of the Alien Everyday" (2013), [external link](https://scholarworks.iu.edu/journals/index.php/textual/article/view/5051/4649)
 + Gabby Resch, Dan Southwick, Isaac Record, and Matt Ratto, [“Thinking as Handwork: Critical Making with Humanistic Concerns”](https://dhdebates.gc.cuny.edu/read/untitled-aa1769f2-6c55-485a-81af-ea82cce86966/section/4b5fd8b4-2a39-4d7a-a563-3e611da220f0#ch16) (2017)
 
@@ -179,8 +179,7 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 
 ### Core
 
-+ Octave Uzanne, "The End of Books" (1894), [external link](https://archive.org/details/TheEndOfBooks/mode/2up)
-+ Lori Emerson, "Indistinguishable from Magic: Invisible Interfaces and Digital Literature as Demystifier" from _Reading Writing Interfaces: From the Digital to the Bookbound_ (2014), [library link](https://www-jstor-org.proxy2.library.illinois.edu/stable/10.5749/j.ctt6wr7dw)
++ Catherine Coker, "The Margins of Print? Fan Fiction as Book History" (2017), [external link](https://journal.transformativeworks.org/index.php/twc/article/view/1053) 
 + Amaranth Borsuk, “The Book as Idea” from _The Book_ (2018)
 + Élika Ortega, "The Many Books of the Future: Print-Digital Literatures" (2020), [external link](https://post45.org/2020/04/the-many-books-of-the-future-print-digital-literatures/)
 
@@ -188,8 +187,8 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 
 + Ulises Carrión, “The New Art of Making Books” (1975), [external link](http://www.reflexionesmarginales.com/biblioteca/15/Documentos/Ulises_Carrion:The_New_Art_of_Making_Books.pdf)
 + learn about “Agrippa” (1992) at [“The Agrippa Files”](http://agrippa.english.ucsb.edu/)
-+ Catherine Coker, "The Margins of Print? Fan Fiction as Book History" (2017), [external link](https://journal.transformativeworks.org/index.php/twc/article/view/1053) 
 + Adam Hammond, "Books in Videogames" from _The Unfinished Book_ (2021), [library link](https://www-oxfordhandbooks-com.proxy2.library.illinois.edu/view/10.1093/oxfordhb/9780198830801.001.0001/oxfordhb-9780198830801-e-23)
++ Joseph Viscomi, "Illuminated Printing" exhibit from the *William Blake Archive*, [external link](http://www.blakearchive.org/exhibit/illuminatedprinting)
 + Browse [Kit Davey’s Instagram](https://www.instagram.com/daveykit/?hl=en)
 
 ### Book Lab: This Is Not a Book
@@ -213,13 +212,13 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 
 <center>-----</center>
 
-## Week 11 | April 6 | Software
+## Week 11 | April 6 | Memory
 
 ### Core
 
 + Matthew Kirschenbaum, "Software, It's a Thing" (2014), [external link](https://medium.com/@mkirschenbaum/software-its-a-thing-a550448d0ed3)
 + Kate Murray, Marcus Nappier, and Liz Holdzkom, “Fun with File Formats" (2021), [external link](https://blogs.loc.gov/thesignal/2021/12/fun-with-file-formats/)
-+ Ryan Cordell, "Material Cultures of the Digital" (2022), [external link](https://ryancordell.org/research/materialdigital/)
++ Sonya Donaldson, "The Ephemeral Archive: Unstable Terrain in Times and Sites of Discord" (2021), [external link](https://dhdebates.gc.cuny.edu/read/the-digital-black-atlantic/section/b5c2c6f7-c1a2-4645-8cf7-9d5cc70aa019##ch02)
 + Klint Finley, "What We Can Learn from Vintage Computing" (2022), [external link](https://github.com/readme/featured/vintage-computing?mc_cid=72e109b22c)
 
 ### Penumbra
@@ -229,6 +228,7 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 + Nick Montfort, Patsy Baudoin, John Bell, Ian Bogost, Jeremy Douglass, Mark C. Marino, Michael Mateas , Casey Reas, Mark Sample, and Noah Vawter, "Introduction" to _10 PRINT CHR$(205.5+RND(1)); : GOTO 10_ (2013), [external link](https://10print.org/10_PRINT_121114.pdf)
 + James A. Hodges, "Forensic Approaches to Evaluating Primary Sources in Internet History Research: Reconstructing Early Web-Based Archival Work (1989–1996)" (2021), [library link](https://www-tandfonline-com.proxy2.library.illinois.edu/doi/full/10.1080/24701475.2020.1784539)
 + Jacob Kowall and Hillary Szu Yin Shiue, “All Hyped Up for HyperCard: Further Adventures with an Apple Legacy Format" (2021), [external link](https://blogs.loc.gov/thesignal/2021/07/all-hyped-up-for-hypercard-further-adventures-with-an-apple-legacy-format/)
++ Ryan Cordell, "Material Cultures of the Digital" (2022), [external link](https://ryancordell.org/research/materialdigital/)
 
 ### Book Lab: Arcade Fire
 
@@ -284,6 +284,7 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 
 ### Core
 
++ Octave Uzanne, "The End of Books" (1894), [external link](https://archive.org/details/TheEndOfBooks/mode/2up)
 + Amaranth Borsuk, The Book as Interface" from *The Book* (2018)
 + Dennis Yi Tenen, "Reading Platforms: A Concise History of the Electronic Book" from _The Unfinished Book_ (2021), [library link](https://www-oxfordhandbooks-com.proxy2.library.illinois.edu/view/10.1093/oxfordhb/9780198830801.001.0001/oxfordhb-9780198830801-e-22)
 + Choose 2-3 works from the _Electronic Literature Collection_ [Volume 3](https://collection.eliterature.org/3/) (2016) or [Volume 4](https://collection.eliterature.org/4/) (2022) to read and share with the group
@@ -291,6 +292,7 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 ### Penumbra
 
 + Alan Galey, "The Enkindling Reciter: E-Books in the Bibliographical Imagination" (2012), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/article/488258)
++ Lori Emerson, "Indistinguishable from Magic: Invisible Interfaces and Digital Literature as Demystifier" from _Reading Writing Interfaces: From the Digital to the Bookbound_ (2014), [library link](https://www-jstor-org.proxy2.library.illinois.edu/stable/10.5749/j.ctt6wr7dw)
 + Craig Mod, "Future Reading" (2015), [external link](https://aeon.co/essays/stagnant-and-dull-can-digital-books-ever-replace-print)
 + Matthew G. Kirschenbaum, “Bibliologistics: The Nature of Books Now, or A Memorable Fancy” (2020), [external link](https://post45.org/2020/04/bibliologistics-the-nature-of-books-now-or-a-memorable-fancy/)
 + Sarah Well, "The Forgotten History of the Blinking Curso▒" (2021), [external link](https://www.inverse.com/innovation/blinking-cursor-history)

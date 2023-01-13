@@ -26,7 +26,7 @@ Each week there are readings listed under *Core* and *Penumbra*. The core readin
 
 ### Book Lab: A Machine to Think With
 
----
+-----
 
 ## Week 2 | January 26 | Book
 
@@ -48,7 +48,7 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 
 ### Book Lab: Reading, Rarely
 
----
+-----
 
 
 ## Week 3 | February 2 | Remediation
@@ -70,7 +70,7 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 
 ### Book Lab: Amanuenses to AI
 
----
+-----
 
 ## Week 4 | February 9 | Text
 
@@ -90,7 +90,7 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 
 ### Book Lab: Compose Yourself
 
-—
+-----
 
 ## Week 5 | February 16 | Page
 
@@ -108,9 +108,9 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 + Sarah Werner, "Paper" and "Format" from _Studying Early Printed Books, 1450-1800 : A Practical Guide_ (2019), [library link 1](http://www.library.illinois.edu.proxy2.library.illinois.edu/proxy/go.php?url=https://search-ebscohost-com.proxy2.library.illinois.edu/login.aspx?direct=true&db=nlebk&AN=1991322&site=eds-live&scope=site&ebv=EK&ppid=Page-__-34) & [library link 2](http://www.library.illinois.edu.proxy2.library.illinois.edu/proxy/go.php?url=https://search-ebscohost-com.proxy2.library.illinois.edu/login.aspx?direct=true&db=nlebk&AN=1991322&site=eds-live&scope=site&ebv=EK&ppid=Page-__-49)
 + James Dobson and Scott Sanders, "Distant Approaches to the Printed Page" (2022), [external link](https://www.digitalstudies.org/article/id/8107/)
 
-### Book Lab 5: A Welcome Imposition
+### Book Lab: A Welcome Imposition
 
-—
+-----
 
 ## Week 6 | February 23 | Press
 
@@ -129,9 +129,9 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 + Matthew P. Brown, "Blanks: Data, Method, and the British American Print Shop" (2017), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/article/659831)
 + Marcy J. Dinius, "Press" (2018), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/article/707752)
 
-### Book Lab 6: A Pressing Matter
+### Book Lab: A Pressing Matter
 
-— 
+----- 
 
 ## Week 7 | March 2 | Image
 
@@ -149,7 +149,7 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 
 ### Book Lab: A Total Fabrication
 
-— 
+----- 
 
 ## Week 8 | March 9 | Gathering
 
@@ -168,11 +168,11 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 
 ### Book Lab: Bound for Glory
 
-—
+-----
 
 ## March 11-19 SPRING BREAK
 
-—
+-----
 
 ## Week 9 | March 23 | Experiment
 
@@ -193,7 +193,7 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 
 ### Book Lab: This Is Not a Book
 
-— 
+----- 
 
 ## Week 10 | March 30 | Collage
 
@@ -210,7 +210,7 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 
 ### Book Lab: I Feel Zine
 
----
+-----
 
 ## Week 11 | April 6 | Software
 
@@ -231,7 +231,7 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 
 ### Book Lab: Arcade Fire
 
----
+-----
 
 ## Week 12 | April 13 | Data
 
@@ -253,7 +253,7 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 
 ###  Book Lab: Speed Data-ing
 
-—
+-----
 
 ## Week 13 | April 20 | Code
 
@@ -276,7 +276,7 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 
 ### Book Lab: From a Distance
 
-—
+-----
 
 ## Week 14 | April 27 | Interface
 

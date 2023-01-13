@@ -26,7 +26,7 @@ Each week there are readings listed under *Core* and *Penumbra*. The core readin
 
 ### Book Lab: A Machine to Think With
 
------
+<center>-----</center>
 
 ## Week 2 | January 26 | Remediation
 
@@ -46,7 +46,7 @@ Each week there are readings listed under *Core* and *Penumbra*. The core readin
 
 ### Book Lab: Amanuenses to AI
 
------
+<center>-----</center>
 
 
 ## Week 3 | February 2 | Book
@@ -69,7 +69,7 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 
 ### Book Lab: Reading, Rarely
 
------
+<center>-----</center>
 
 ## Week 4 | February 9 | Text
 
@@ -89,7 +89,7 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 
 ### Book Lab: Compose Yourself
 
------
+<center>-----</center>
 
 ## Week 5 | February 16 | Page
 
@@ -109,7 +109,7 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 
 ### Book Lab: A Welcome Imposition
 
------
+<center>-----</center>
 
 ## Week 6 | February 23 | Press
 
@@ -130,7 +130,7 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 
 ### Book Lab: A Pressing Matter
 
------ 
+<center>-----</center>
 
 ## Week 7 | March 2 | Image
 
@@ -148,7 +148,7 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 
 ### Book Lab: A Total Fabrication
 
------ 
+<center>-----</center>
 
 ## Week 8 | March 9 | Gathering
 
@@ -167,11 +167,11 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 
 ### Book Lab: Bound for Glory
 
------
+<center>-----</center>
 
 ## March 11-19 SPRING BREAK
 
------
+<center>-----</center>
 
 ## Week 9 | March 23 | Experiment
 
@@ -194,7 +194,7 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 
 ### Book Lab: This Is Not a Book
 
------ 
+<center>-----</center>
 
 ## Week 10 | March 30 | Collage
 
@@ -211,7 +211,7 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 
 ### Book Lab: I Feel Zine
 
------
+<center>-----</center>
 
 ## Week 11 | April 6 | Software
 
@@ -232,7 +232,7 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 
 ### Book Lab: Arcade Fire
 
------
+<center>-----</center>
 
 ## Week 12 | April 13 | Data
 
@@ -254,7 +254,7 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 
 ###  Book Lab: Speed Data-ing
 
------
+<center>-----</center>
 
 ## Week 13 | April 20 | Code
 
@@ -277,7 +277,8 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 
 ### Book Lab: From a Distance
 
------
+<center>-----</center>
+
 
 ## Week 14 | April 27 | Interface
 

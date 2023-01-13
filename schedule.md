@@ -156,12 +156,13 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 ### Core 
 
 + Charles W. Chesnutt, "Baxter's Procustes" (1904), [external link](https://loa-shared.s3.amazonaws.com/static/pdf/Chesnutt_Baxters_Procrustes.pdf)
-+ Sarah Werner, "Binding" from _Studying Early Printed Books, 1450-1800 : A Practical Guide_ (2019), [library link](http://www.library.illinois.edu.proxy2.library.illinois.edu/proxy/go.php?url=https://search-ebscohost-com.proxy2.library.illinois.edu/login.aspx?direct=true&db=nlebk&AN=1991322&site=eds-live&scope=site&ebv=EK&ppid=Page-__-76)
++ Leah Price, "Introduction" from _How to Do Things with Books in Victorian Britain_ (2012), [library link](http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/j.ctt7pgvx.5)
 + Meredith L. McGill, "Books on the Loose" from _The Unfinished Book_ (2021), [library link](https://www-oxfordhandbooks-com.proxy2.library.illinois.edu/view/10.1093/oxfordhb/9780198830801.001.0001/oxfordhb-9780198830801-e-6)
 + Barbara Heritage and Ruth-Ellen St. Onge, “Bookbindings Before 1800, “Bookbinding Tools, Stamps, Dies, Leather, and Cloth,” and “Bookbindings After 1800” from the “Building the Book from the Ancient World to the Present Day” Exhibition, [external link](https://grolierclub.omeka.net/exhibits/show/rare-book-school)
 
 ### Penumbra
 
++ Sarah Werner, "Binding" from _Studying Early Printed Books, 1450-1800 : A Practical Guide_ (2019), [library link](http://www.library.illinois.edu.proxy2.library.illinois.edu/proxy/go.php?url=https://search-ebscohost-com.proxy2.library.illinois.edu/login.aspx?direct=true&db=nlebk&AN=1991322&site=eds-live&scope=site&ebv=EK&ppid=Page-__-76)
 + Charity Hancock, Clifford Hichar, Carlea Holl-Jensen, Kari Kraus, Cameron Mozafari, and Kathryn Skutlin, "Bibliocircuitry and the Design of the Alien Everyday" (2013), [external link](https://scholarworks.iu.edu/journals/index.php/textual/article/view/5051/4649)
 + Gabby Resch, Dan Southwick, Isaac Record, and Matt Ratto, [“Thinking as Handwork: Critical Making with Humanistic Concerns”](https://dhdebates.gc.cuny.edu/read/untitled-aa1769f2-6c55-485a-81af-ea82cce86966/section/4b5fd8b4-2a39-4d7a-a563-3e611da220f0#ch16) (2017)
 

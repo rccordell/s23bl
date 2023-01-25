@@ -140,6 +140,7 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 + Juliet S. Sperling, "Image" (2018), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/article/707742)
 + Jacqueline Goldsby, "Book Faces" (2021) from _The Unfinished Book_, [library link](https://www-oxfordhandbooks-com.proxy2.library.illinois.edu/view/10.1093/oxfordhb/9780198830801.001.0001/oxfordhb-9780198830801-e-11)
 + Caroline Wigginton, "An Indigenous Pipe Bibliography" from _The Unfinished Book_ [library link](https://www-oxfordhandbooks-com.proxy2.library.illinois.edu/view/10.1093/oxfordhb/9780198830801.001.0001/oxfordhb-9780198830801-e-19)
++ Barbara Heritage and Ruth-Ellen St. Onge, “Bookbindings Before 1800, “Bookbinding Tools, Stamps, Dies, Leather, and Cloth,” and “Bookbindings After 1800” from the “Building the Book from the Ancient World to the Present Day” Exhibition, [external link](https://grolierclub.omeka.net/exhibits/show/rare-book-school)
 
 ### Penumbra
 
@@ -157,8 +158,9 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 
 + Charles W. Chesnutt, "Baxter's Procustes" (1904), [external link](https://loa-shared.s3.amazonaws.com/static/pdf/Chesnutt_Baxters_Procrustes.pdf)
 + Leah Price, "Introduction" from _How to Do Things with Books in Victorian Britain_ (2012), [library link](http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/j.ctt7pgvx.5)
++ Paul Erickson, "The Business of Building Books" (2017), [external link](http://commonplace.online/article/business-building-books/)
 + Meredith L. McGill, "Books on the Loose" from _The Unfinished Book_ (2021), [library link](https://www-oxfordhandbooks-com.proxy2.library.illinois.edu/view/10.1093/oxfordhb/9780198830801.001.0001/oxfordhb-9780198830801-e-6)
-+ Barbara Heritage and Ruth-Ellen St. Onge, “Bookbindings Before 1800, “Bookbinding Tools, Stamps, Dies, Leather, and Cloth,” and “Bookbindings After 1800” from the “Building the Book from the Ancient World to the Present Day” Exhibition, [external link](https://grolierclub.omeka.net/exhibits/show/rare-book-school)
+
 
 ### Penumbra
 

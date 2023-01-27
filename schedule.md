@@ -95,7 +95,7 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 
 ### Core
 
-+ Lisa Gitelman, "Near Print and Beyond Paper: Knowing by \*.pdf" from _Paper Knowledge: Toward a Media History of Documents_ (2014), file on Canvas
++ Herman Melville, "The Paradise of Bachelors and the Tartarus of Maids" (1855), [external link](https://babel.hathitrust.org/cgi/pt?id=uc1.b000541557&view=1up&seq=682)
 + Meredith L. McGill, "Format" (2018), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/article/707740)
 + Jonathan Senchyne, "Introduction" and "Conclusion: Reading Into Surfaces" from _The Intimacy of Paper in Early and Nineteenth-Century American Literature_ (2019), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/book/78288)
 + Andrew Piper, Chad Wellmon, and Mohamed Cheriet, "The Page Image: Towards a Visual History of Digital Documents" (2020), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/article/770717)
@@ -137,16 +137,17 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 
 ### Core
 
++ Lisa Gitelman, "Near Print and Beyond Paper: Knowing by \*.pdf" from _Paper Knowledge: Toward a Media History of Documents_ (2014), file on Canvas
 + Juliet S. Sperling, "Image" (2018), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/article/707742)
 + Jacqueline Goldsby, "Book Faces" (2021) from _The Unfinished Book_, [library link](https://www-oxfordhandbooks-com.proxy2.library.illinois.edu/view/10.1093/oxfordhb/9780198830801.001.0001/oxfordhb-9780198830801-e-11)
 + Caroline Wigginton, "An Indigenous Pipe Bibliography" from _The Unfinished Book_ [library link](https://www-oxfordhandbooks-com.proxy2.library.illinois.edu/view/10.1093/oxfordhb/9780198830801.001.0001/oxfordhb-9780198830801-e-19)
-+ Barbara Heritage and Ruth-Ellen St. Onge, “Bookbindings Before 1800, “Bookbinding Tools, Stamps, Dies, Leather, and Cloth,” and “Bookbindings After 1800” from the “Building the Book from the Ancient World to the Present Day” Exhibition, [external link](https://grolierclub.omeka.net/exhibits/show/rare-book-school)
 
 ### Penumbra
 
 + Aaron Kashtan, "Introduction: Comics, Materiality, and the Future of the Book" from _Between Pen and Pixel: Comics, Materiality, and the Book of the Future_ (2018), [library link](http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/j.ctv1khdqnk.5)
 + Sarah Werner, "Illustration" and "Part 4: Looking at Books" from _Studying Early Printed Books, 1450-1800 : A Practical Guide_ (2019), [library link 1](http://www.library.illinois.edu.proxy2.library.illinois.edu/proxy/go.php?url=https://search-ebscohost-com.proxy2.library.illinois.edu/login.aspx?direct=true&db=nlebk&AN=1991322&site=eds-live&scope=site&ebv=EK&ppid=Page-__-71) & [library link 2](http://www.library.illinois.edu.proxy2.library.illinois.edu/proxy/go.php?url=https://search-ebscohost-com.proxy2.library.illinois.edu/login.aspx?direct=true&db=nlebk&AN=1991322&site=eds-live&scope=site&ebv=EK&ppid=Page-__-103)
 + Joseph Viscomi, "Illuminated Printing" exhibit from the *William Blake Archive*, [external link](http://www.blakearchive.org/exhibit/illuminatedprinting)
++ Barbara Heritage and Ruth-Ellen St. Onge, “Bookbindings Before 1800, “Bookbinding Tools, Stamps, Dies, Leather, and Cloth,” and “Bookbindings After 1800” from the “Building the Book from the Ancient World to the Present Day” Exhibition, [external link](https://grolierclub.omeka.net/exhibits/show/rare-book-school)
 
 ### Book Lab: A Total Fabrication
 

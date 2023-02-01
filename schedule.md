@@ -65,7 +65,7 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 
 + Robert Darnton, "What is the History of Books? Revisited" (2007), [library link](https://www-cambridge-org.proxy2.library.illinois.edu/core/journals/modern-intellectual-history/article/what-is-the-history-of-books-revisited/58B54CA744EACF363ADD23C3473A4498)
 + Matthew Kirschenbaum and Sarah Werner, "Digital Scholarship and Digital Studies: the State of the Discipline" (2014), [library link](http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/43956362)
-+ Johanna Drucker, ["Preliminary 1. Histories of the Book and Literacy Technologies"](https://hob.gseis.ucla.edu/HoBCoursebook_Prelim_1.html) and ["Preliminary 2. Bibliographical Alterities"](https://hob.gseis.ucla.edu/HoBCoursebook_Prelim_2.html)
++ Johanna Drucker, ["Preliminary 1. Histories of the Book and Literacy Technologies"](https://web.archive.org/web/20220816190556/https://hob.gseis.ucla.edu/HoBCoursebook_Prelim_1.html) and ["Preliminary 2. Bibliographical Alterities"](https://web.archive.org/web/20220816190505/https://hob.gseis.ucla.edu/HoBCoursebook_Prelim_2.html)
 
 ### Book Lab: Reading, Rarely
 

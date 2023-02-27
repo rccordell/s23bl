@@ -137,7 +137,7 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 
 ### Core
 
-+ Lisa Gitelman, "Near Print and Beyond Paper: Knowing by \*.pdf" from _Paper Knowledge: Toward a Media History of Documents_ (2014), file on Canvas
++ Lisa Gitelman, "Near Print and Beyond Paper: Knowing by \*.pdf" from _Paper Knowledge: Toward a Media History of Documents_ (2014), [file on Canvas](https://canvas.illinois.edu/courses/32809/files/folder/Readings?preview=7831903)
 + Juliet S. Sperling, "Image" (2018), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/article/707742)
 + Jacqueline Goldsby, "Book Faces" (2021) from _The Unfinished Book_, [library link](https://www-oxfordhandbooks-com.proxy2.library.illinois.edu/view/10.1093/oxfordhb/9780198830801.001.0001/oxfordhb-9780198830801-e-11)
 + Caroline Wigginton, "An Indigenous Pipe Bibliography" from _The Unfinished Book_ [library link](https://www-oxfordhandbooks-com.proxy2.library.illinois.edu/view/10.1093/oxfordhb/9780198830801.001.0001/oxfordhb-9780198830801-e-19)
@@ -271,7 +271,7 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 
 ### Penumbra
 
-+ Roberto Busa, "Why Can a Computer Do So Little?" (1976), [canvas link](https://canvas.illinois.edu/courses/16570/files?preview=4101997)
++ Roberto Busa, "Why Can a Computer Do So Little?" (1976), [canvas link](https://canvas.illinois.edu/courses/32809/files/folder/Readings?preview=7831921)
 + Stephen Ramsay, "An Algorithmic Criticism" and "Potential Readings" from _Reading Machines: Toward an Algorithmic Criticism_ (2011), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/book/18394)
 + David C. Zentgraf, "What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text" (2015), [external link](https://kunststube.net/encoding/)
 + Hannah Alpert-Abrams, "Machine Reading the *Primeros Libros*" (2016), [external link](http://www.digitalhumanities.org/dhq/vol/10/4/000268/000268.html)

@@ -189,7 +189,7 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 
 ### Penumbra 
 
-+ Ulises Carrión, “The New Art of Making Books” (1975), [external link](http://www.reflexionesmarginales.com/biblioteca/15/Documentos/Ulises_Carrion:The_New_Art_of_Making_Books.pdf)
++ Ulises Carrión, “The New Art of Making Books” (1975), [external link](https://www.serraglia.com/wp-content/uploads/2018/05/Ulises-Carrion-The-New-Art-of-Making-Books1.pdf)
 + learn about “Agrippa” (1992) at [“The Agrippa Files”](http://agrippa.english.ucsb.edu/)
 + Adam Hammond, "Books in Videogames" from _The Unfinished Book_ (2021), [library link](https://www-oxfordhandbooks-com.proxy2.library.illinois.edu/view/10.1093/oxfordhb/9780198830801.001.0001/oxfordhb-9780198830801-e-23)
 + Joseph Viscomi, "Illuminated Printing" exhibit from the *William Blake Archive*, [external link](http://www.blakearchive.org/exhibit/illuminatedprinting)

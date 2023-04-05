@@ -234,7 +234,7 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 + Jacob Kowall and Hillary Szu Yin Shiue, “All Hyped Up for HyperCard: Further Adventures with an Apple Legacy Format" (2021), [external link](https://blogs.loc.gov/thesignal/2021/07/all-hyped-up-for-hypercard-further-adventures-with-an-apple-legacy-format/)
 + Ryan Cordell, "Material Cultures of the Digital" (2022), [external link](https://ryancordell.org/research/materialdigital/)
 
-### Book Lab: Arcade Fire
+### Book Lab: A Routine Operation
 
 <center>-----</center>
 

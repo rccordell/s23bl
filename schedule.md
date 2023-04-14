@@ -267,7 +267,7 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 + Katherine Bode, "Abstraction, Singularity, Textuality: The Equivalence of 'Close' and 'Distant' Reading" from _A World of Fiction_ (2018), [library link](https://www-jstor-org.proxy2.library.illinois.edu/stable/j.ctvdtpj1d.5?seq=3#metadata_info_tab_contents)
 + Sandeep Soni, Lauren F. Klein, and Jacob Eisenstein, “Abolitionist Networks: Modeling Language Change in Nineteenth-Century Activist Newspapers” (2021), [external link](https://culturalanalytics.org/article/18841-abolitionist-networks-modeling-language-change-in-nineteenth-century-activist-newspapers)
 + Melanie Walsh and Maria Antoniak, "The Goodreads 'Classics': A Computational Study of Readers, Amazon, and Crowdsourced Amateur Criticism" (2021), [external link](https://post45.org/2021/04/the-goodreads-classics-a-computational-study-of-readers-amazon-and-crowdsourced-amateur-criticism/)
-+ Gabi Kirilloff, "Computation as Context: New Approaches to the Close/Distant Reading Debate" (2022), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/article/844432)
++ James A. Hodges and Ciaran B. Trace, “Preserving Algorithmic Systems: A Synthesis of Overlapping Approaches, Materialities and Contexts,” _Journal of Documentation_ (2023), [library link](https://www-emerald-com.proxy2.library.illinois.edu/insight/content/doi/10.1108/JD-09-2022-0204/full/html)
 
 ### Penumbra
 
@@ -278,6 +278,8 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 + Richard Jean So, “All Models are Wrong” (2017), [library link](http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/27037381)
 + Rachael Scarborough King, "The Scale of Genre" (2021), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/article/802091)
 + Melanie Walsh, "Where is All the Book Data?" (2022), [external link](https://www.publicbooks.org/where-is-all-the-book-data/)
++ Gabi Kirilloff, "Computation as Context: New Approaches to the Close/Distant Reading Debate" (2022), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/article/844432)
+
 
 ### Book Lab: From a Distance
 

@@ -281,7 +281,7 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 + Gabi Kirilloff, "Computation as Context: New Approaches to the Close/Distant Reading Debate" (2022), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/article/844432)
 
 
-### Book Lab: From a Distance
+### Book Lab: The Communications Circuit
 
 <center>-----</center>
 
